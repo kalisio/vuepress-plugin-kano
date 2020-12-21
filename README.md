@@ -1,6 +1,6 @@
 # vuepress-plugin-kano
 
-[![Latest Release](https://img.shields.io/github/v/tag/kalisio/k-openradiation?sort=semver&label=latest)](https://github.com/kalisio/k-openradiation/releases)
+[![Latest Release](https://img.shields.io/github/v/tag/kalisio/vuepress-plugin-kano?sort=semver&label=latest)](https://github.com/kalisio/vuepress-plugin-kano/releases)
 
 
 ## Overview
