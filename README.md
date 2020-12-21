@@ -39,7 +39,7 @@ The recommended usage is to place your **Kano** declaration as an HTML element:
 
 ## Contributing
 
-Found a bug ? Missing a Feature ? Want to contribute ? check out our [contribution guidelines](https://kalisio.github.io/kargo/about/contributing.html) for details
+Found a bug ? Missing a Feature ? Want to contribute ? check out our [contribution guidelines](./docs/CONTRIBUTING.md) for details
 
 ## Authors
 
