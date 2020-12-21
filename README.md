@@ -14,7 +14,7 @@ See this plugin in action [here](http://localhost:8080/kano/guides/advanced-usag
 You can install it with
 
 ```bash
-yarn add vuepress-plugin-kano
+yarn add -D vuepress-plugin-kano
 ```
 
 And then you just need to register the plugin in your `.vuepress/config.js`:
