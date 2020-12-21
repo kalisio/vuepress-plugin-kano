@@ -39,7 +39,7 @@ The recommended usage is to place your **Kano** declaration as an HTML element:
 
 ## Contributing
 
-Found a bug ? Missing a Feature ? Want to contribute ? check out our [contribution guidelines](./docs/CONTRIBUTING.md) for details
+Found a bug ? Missing a Feature ? Want to contribute ? check out our [contribution guidelines](./CONTRIBUTING.md) for details
 
 ## Authors
 
@@ -49,7 +49,7 @@ This project is sponsored by
 
 ## License
 
-This project is licensed under the MIT License - see the [license file](./docs/LICENSE.md) for details
+This project is licensed under the MIT License - see the [license file](./LICENSE.md) for details
 
 
 
