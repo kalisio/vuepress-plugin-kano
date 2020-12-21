@@ -7,7 +7,7 @@
 
 This is a simple [VuePress](https://vuepress.vuejs.org/) plugin that provides a global component wrapping [Kano](https://kalisio.github.io/kano/), _a powerful real-time Geovisualizer_.
 
-See this plugin in action [here](http://localhost:8080/kano/guides/advanced-usage.html#integrating-kano) !
+See this plugin in action [here](https://kalisio.github.io/kano/guides/advanced-usage.html#integrating-kano) !
 
 ## Installation
 
