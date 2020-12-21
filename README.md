@@ -37,6 +37,14 @@ The recommended usage is to place your **Kano** declaration as an HTML element:
 <kano source="your Kano URL" token="your Kano token" />
 ```
 
+The tag handles the following attributes:
+
+| Attribute | Description |
+| --- | --- |
+| `source` | the url to the Kano website. The default value is `https://kano.dev.kalisio.xyz` |
+| `token` | the token to be used if you want to be authenticated automatically. There is no default token and if you do not provide any token you have to authenticate yourself. |
+| `css-style` | The style to apply to the **iframe**. The default value is `width: 100%; height: 50vh` |
+
 ## Contributing
 
 Found a bug ? Missing a Feature ? Want to contribute ? check out our [contribution guidelines](./CONTRIBUTING.md) for details
