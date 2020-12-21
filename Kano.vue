@@ -1,5 +1,3 @@
-
-
 <template>
   <div>
     <iframe id="kano" title="Kano" allow="geolocation *" allowfullscreen frameBorder="0" :style=cssStyle :src=source></iframe>

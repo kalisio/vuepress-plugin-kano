@@ -2,9 +2,6 @@
 
 [![Latest Release](https://img.shields.io/github/v/tag/kalisio/vuepress-plugin-kano?sort=semver&label=latest)](https://github.com/kalisio/vuepress-plugin-kano/releases)
 
-
-## Overview
-
 This is a simple [VuePress](https://vuepress.vuejs.org/) plugin that provides a global component wrapping [Kano](https://kalisio.github.io/kano/), _a powerful real-time Geovisualizer_.
 
 See this plugin in action [here](https://kalisio.github.io/kano/guides/advanced-usage.html#integrating-kano) !
