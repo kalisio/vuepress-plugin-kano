@@ -1,6 +1,6 @@
 {
   "name": "vuepress-plugin-kano",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "VuePress plugin to support Kano",
   "main": "index.js",
   "repository": {
