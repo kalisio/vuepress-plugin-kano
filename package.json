@@ -1,0 +1,35 @@
+{
+  "name": "vuepress-plugin-kano",
+  "version": "0.1.0",
+  "description": "VuePress plugin to support Kano",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalisio/vuepress-plugin-kano.git"
+  },
+  "keywords": [
+    "vue",
+    "vuepress",
+    "plugin",
+    "kano",
+    "maps"
+  ],
+  "author": "Kalisio team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kalisio/vuepress-plugin-kano/issues"
+  },
+  "homepage": "https://github.com/kalisio/vuepress-plugin-kano#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "changelog": "changelog -x build,ci,chore,docs,other,perf,refactor,revert,style,test",
+    "release:major": "npm run changelog -- -M && git add CHANGELOG.md && git commit -m \"updated CHANGELOG.md [skip ci]\" && git push && npm version --force major",
+    "release:minor": "npm run changelog -- -m && git add CHANGELOG.md && git commit -m \"Updated CHANGELOG.md [skip ci]\" && git push && npm version --force minor",
+    "release:patch": "npm run changelog -- -p && git add CHANGELOG.md && git commit -m \"Updated CHANGELOG.md [skip ci]\" && git push && npm version --force patch",
+    "postversion": "git push origin --tags"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "generate-changelog": "^1.7.1"
+  }
+}

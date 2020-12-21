@@ -1,0 +1,8 @@
+# IDE
+.vscode
+
+# logs
+*.log
+
+# Node
+node_modules
