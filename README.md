@@ -5,7 +5,7 @@
 
 ## Overview
 
-This is a simple [VuePress](https://vuepress.vuejs.org/) plugin that provides a global component wrapping [Kano](https://kalisio.github.io/kano/).
+This is a simple [VuePress](https://vuepress.vuejs.org/) plugin that provides a global component wrapping [Kano](https://kalisio.github.io/kano/), _a powerful real-time Geovisualizer_.
 
 See it in action [here](http://localhost:8080/kano/guides/advanced-usage.html#integrating-kano)
 
@@ -34,7 +34,7 @@ module.exports = {
 The recommended usage is to place your **Kano** declaration as an HTML element:
 
 ```html
-<kano source="you kano URL" token="your token" />
+<kano source="your Kano URL" token="your Kano token" />
 ```
 
 ## Contributing
@@ -50,8 +50,6 @@ This project is sponsored by
 ## License
 
 This project is licensed under the MIT License - see the [license file](./docs/LICENSE.md) for details
-
-# vuepress-plugin-kano
 
 
 
