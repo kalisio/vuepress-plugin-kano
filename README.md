@@ -14,7 +14,7 @@ See this plugin in action [here](http://localhost:8080/kano/guides/advanced-usag
 You can install it with
 
 ```bash
-yarn add vuepress-plugin-mermaidjs
+yarn add vuepress-plugin-kano
 ```
 
 And then you just need to register the plugin in your `.vuepress/config.js`:
@@ -23,7 +23,7 @@ And then you just need to register the plugin in your `.vuepress/config.js`:
 module.exports = {
     // ...
     plugins: [
-        'vuepress-plugin-mermaidjs'
+        'vuepress-plugin-kano'
     ]
     // ...
 }
