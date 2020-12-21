@@ -33,7 +33,7 @@ module.exports = {
 
 The recommended usage is to place your **Kano** declaration as an HTML element:
 
-```html
+```md
 <kano source="your Kano URL" token="your Kano token" />
 ```
 
